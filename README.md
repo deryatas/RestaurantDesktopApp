@@ -36,6 +36,15 @@ Hello there
 ![alt text](https://github.com/deryatas/RestaurantDesktopApp/blob/main/Pic/YEN%C4%B0LE%20(7).png)
 
 
+4) For run the application, follow the steps.
+
+* User Name : derya taş
+- Password : 123
+
+5) For help, write me !
+
+* My personal account : dderya.ttas.17@hotmail.com
+
 
 
 
